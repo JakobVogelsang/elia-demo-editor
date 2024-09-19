@@ -1,0 +1,28 @@
+* {
+  --oscd-theme-primary: #459aa7;
+  --oscd-theme-secondary: #f0801a;
+  --oscd-theme-error: #dc322f;
+
+  --oscd-theme-base03: #002b36;
+  --oscd-theme-base02: #002329;
+  --oscd-theme-base01: #185963;
+  --oscd-theme-base00: #258998;
+  --oscd-theme-base0: #bedce0;
+  --oscd-theme-base1: #e4f0f2;
+  --oscd-theme-base2: #ffffff;
+  --oscd-theme-base3: #f5f6f7;
+
+  --oscd-theme-text-font: 'Roboto';
+  --oscd-theme-icon-font: "Material Symbols Outlined";
+
+  --primary: var(--oscd-theme-primary);
+  --secondary: var(--oscd-theme-secondary);
+
+  margin: 0px;
+  padding: 0px;
+}
+
+abbr {
+  text-decoration: none;
+  border-bottom: none;
+}
